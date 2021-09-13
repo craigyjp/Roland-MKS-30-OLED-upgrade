@@ -6,3 +6,6 @@ This was inspired by the poor condition of the LED display of the Roland MKS-30,
 I enlarged the characters from the original code to better fill the display windows and added a shift register to capture the segment status directly before the LED display drivers. I also picked up the select lines for the 4 segments all from connector 1 of the MKS-30 display board. 
 
 +5V Power can be picked up from connector 3 of the display board also.
+
+I've 3D printed some windows to hide the fact that the displays are about 1mm too small for the MKS-30 windows. These are not shown.
+
